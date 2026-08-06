@@ -1,0 +1,9 @@
+return {
+
+	taimbremani3 = {
+		UserId = 2620221923;
+		DisplayName = "Dark";
+		Reason = "Scamming for assets"
+	}
+
+}
